@@ -21,4 +21,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-theme: jekyll-theme-minimal
+theme: jekyll-time-machine
